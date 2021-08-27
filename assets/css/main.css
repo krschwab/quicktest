@@ -828,7 +828,7 @@ body {
     /* background: radial-gradient(#4061A9, #29478E); */
     /* --------- */
     /* Below properties enable background image rather than hex gradient */
-    background-image: url("../images/SwaPingBackground.png");
+    background-image: url("/SwaPingBackground-min.png");
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
